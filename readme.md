@@ -1,30 +1,18 @@
- 💫 Hi 👋, I'm AJITH AR
+# 💫 Hi 👋, I'm Imran Alam
+**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
-A passionate Python Developer 🐍 || Oracle VBCS Developer ☁️ from India 🇮🇳
+Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
 
-Email Me 👉 ✉️ ar.ajithrajan@gmail.com
- For Collaboration/Project or Anything Else. 😊😊
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Enter your tech here
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Enter your email here
+- 😄 **Pronouns:** Imran Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-🔭 I’m currently working on: Building scalable backend systems using Django, REST APIs, and Oracle VBCS
-
-🌱 I’m currently learning: Cloud Automation, Oracle Integration Cloud (OIC), and Advanced Python Development
-
-👯 I’m looking to collaborate on: Fullstack Python, Django, or VBCS projects
-
-🤔 I’m looking for help with: Integrating VBCS applications with Python backends
-
-💬 Ask me about: Python, Django, REST APIs, VBCS, and Cloud Integrations
-
-📫 How to reach me: ar.ajithrajan@gmail.com
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I automate boring stuff using Python 😄
-
-🐍 Passionate About Python
-
-I love solving real-world problems using Python — from backend development and data automation to API integration and cloud-based workflows.
-My focus is on writing clean, efficient, and scalable code that powers modern applications. 🚀
+## 🔗 I am a Content Creator. 😊😊
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100011502796867) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ar.ajith_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ajith-ar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ar.ajithrajan@gmail.com) 
 xxaa
