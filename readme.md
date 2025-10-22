@@ -1,6 +1,8 @@
 # 💫 Hi 👋, I'm AJITH AR
 **A passionate Python Developer 🐍 || Oracle VBCS Developer ☁️ from India 🇮🇳**
-Email Me 👉 ✉️ **ar.ajithrajan@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+Email Me 👉 ✉️ **ar.ajithrajan@gmail.com**
+For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Building scalable backend systems using Django, REST APIs, and Oracle VBCS
 - 🌱 **I’m currently learning:** Cloud Automation, Oracle Integration Cloud (OIC), and Advanced Python Development
