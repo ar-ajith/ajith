@@ -1,9 +1,9 @@
-**💫 Hi 👋, I'm AJITH AR**
+ 💫 Hi 👋, I'm AJITH AR
 
-**A passionate Python Developer 🐍 || Oracle VBCS Developer ☁️ from India 🇮🇳**
+A passionate Python Developer 🐍 || Oracle VBCS Developer ☁️ from India 🇮🇳
 
-📩 Email Me: ajithar.dev@outlook.com
- for Collaboration, Projects, or Tech Discussions 😊
+Email Me 👉 ✉️ ar.ajithrajan@gmail.com
+ For Collaboration/Project or Anything Else. 😊😊
 
 🔭 I’m currently working on: Building scalable backend systems using Django, REST APIs, and Oracle VBCS
 
@@ -15,7 +15,7 @@
 
 💬 Ask me about: Python, Django, REST APIs, VBCS, and Cloud Integrations
 
-📫 How to reach me: ajithar.dev@outlook.com
+📫 How to reach me: ar.ajithrajan@gmail.com
 
 😄 Pronouns: He/Him
 
@@ -23,7 +23,8 @@
 
 🐍 Passionate About Python
 
-I love solving real-world problems using Python — from backend development and data automation to API integration and cloud-based workflows. My focus is on writing clean, efficient, and scalable code that powers modern applications. 🚀
+I love solving real-world problems using Python — from backend development and data automation to API integration and cloud-based workflows.
+My focus is on writing clean, efficient, and scalable code that powers modern applications. 🚀
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100011502796867) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ar.ajith_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ajith-ar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ar.ajithrajan@gmail.com) 
 xxaa
