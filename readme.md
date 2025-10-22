@@ -3,8 +3,6 @@
 
 Email Me 👉 ✉️ **ar.ajithrajan@gmail.com**
 
-For Collaboration/Project or Anything Else. 😊😊
-
 - 🔭 **I’m currently working on:** Building scalable backend systems using Django, REST APIs, and Oracle VBCS
 - 🌱 **I’m currently learning:** Cloud Automation, Oracle Integration Cloud (OIC), and Advanced Python Development
 - 💬 **Ask me about:** Python, Django, REST APIs, VBCS, and Cloud Integrations
